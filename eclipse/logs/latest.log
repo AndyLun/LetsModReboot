@@ -1,29 +1,39 @@
-[21:59:50] [main/INFO]: Setting user: ForgeDevName
-[21:59:53] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:00:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[22:00:05] [Sound Library Loader/INFO]: Sound engine started
-[22:00:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:00:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:00:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[22:00:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:00:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:00:10] [Sound Library Loader/INFO]: Sound engine started
-[22:00:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:00:15] [Server thread/INFO]: Generating keypair
-[22:00:16] [Server thread/INFO]: Preparing start region for level 0
-[22:00:16] [Server thread/INFO]: Changing view distance to 12, from 10
-[22:00:17] [Server thread/INFO]: ForgeDevName[local:E:79606f93] logged in with entity id 0 at (241.7912390286981, 64.0, -452.49483407725177)
-[22:00:17] [Server thread/INFO]: ForgeDevName joined the game
-[22:00:49] [Server thread/INFO]: [ForgeDevName: Given [Maple Leaf] * 1 to ForgeDevName]
-[22:00:49] [Client thread/INFO]: [CHAT] Given [Maple Leaf] * 1 to ForgeDevName
-[22:00:50] [Server thread/INFO]: Saving and pausing game...
-[22:00:50] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Overworld
-[22:00:50] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Nether
-[22:00:50] [Server thread/INFO]: Saving chunks for level 'Mod Test'/The End
-[22:00:53] [Server thread/INFO]: Stopping server
-[22:00:53] [Server thread/INFO]: Saving players
-[22:00:53] [Server thread/INFO]: Saving worlds
-[22:00:53] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Overworld
-[22:00:53] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Nether
-[22:00:53] [Server thread/INFO]: Saving chunks for level 'Mod Test'/The End
-[22:00:54] [Client thread/INFO]: Stopping!
+[17:19:06] [main/INFO]: Setting user: ForgeDevName
+[17:19:08] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:19:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[17:19:21] [Sound Library Loader/INFO]: Sound engine started
+[17:19:25] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:19:25] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:19:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[17:19:25] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:19:26] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:19:27] [Sound Library Loader/INFO]: Sound engine started
+[17:19:34] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:19:34] [Server thread/INFO]: Generating keypair
+[17:19:35] [Server thread/INFO]: Preparing start region for level 0
+[17:19:37] [Server thread/INFO]: Preparing spawn area: 1%
+[17:19:38] [Server thread/INFO]: Preparing spawn area: 38%
+[17:19:39] [Server thread/INFO]: Preparing spawn area: 79%
+[17:19:40] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:19:40] [Server thread/INFO]: ForgeDevName[local:E:8910d16c] logged in with entity id 0 at (241.20100262045335, 64.0, -448.6645275607675)
+[17:19:40] [Server thread/INFO]: ForgeDevName joined the game
+[17:19:49] [Client thread/INFO]: [CHAT] LetsModReboot:flag, LetsModReboot:mapleLeaf
+[17:19:50] [Client thread/INFO]: [CHAT] LetsModReboot:flag, LetsModReboot:mapleLeaf
+[17:19:50] [Client thread/INFO]: [CHAT] LetsModReboot:flag, LetsModReboot:mapleLeaf
+[17:19:51] [Server thread/INFO]: [ForgeDevName: Given [Canadian Flag] * 1 to ForgeDevName]
+[17:19:51] [Client thread/INFO]: [CHAT] Given [Canadian Flag] * 1 to ForgeDevName
+[17:20:33] [Server thread/INFO]: Saving and pausing game...
+[17:20:33] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Overworld
+[17:20:33] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Nether
+[17:20:33] [Server thread/INFO]: Saving chunks for level 'Mod Test'/The End
+[17:20:43] [Server thread/INFO]: Saving and pausing game...
+[17:20:43] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Overworld
+[17:20:43] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Nether
+[17:20:43] [Server thread/INFO]: Saving chunks for level 'Mod Test'/The End
+[17:20:44] [Server thread/INFO]: Stopping server
+[17:20:44] [Server thread/INFO]: Saving players
+[17:20:44] [Server thread/INFO]: Saving worlds
+[17:20:44] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Overworld
+[17:20:44] [Server thread/INFO]: Saving chunks for level 'Mod Test'/Nether
+[17:20:44] [Server thread/INFO]: Saving chunks for level 'Mod Test'/The End
+[17:20:59] [Client thread/INFO]: Stopping!

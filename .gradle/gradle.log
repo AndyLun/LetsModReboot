@@ -8,12 +8,10 @@ The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..
  MCP Data version : unknown
 ****************************
 :ideaModule
-Download http://repo1.maven.org/maven2/com/google/guava/guava/16.0/guava-16.0-sources.jar
-Download http://repo1.maven.org/maven2/com/google/guava/guava/16.0/guava-16.0-javadoc.jar
 :ideaProject
 :ideaWorkspace
 :idea
 
 BUILD SUCCESSFUL
 
-Total time: 55.103 secs
+Total time: 43.38 secs

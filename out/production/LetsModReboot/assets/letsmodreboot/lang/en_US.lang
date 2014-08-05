@@ -1,2 +1,5 @@
 # Item Localizations
 item.letsmodreboot:mapleLeaf.name=Maple Leaf
+
+# Block Localizations
+tile.letsmodreboot:flag.name=Canadian Flag

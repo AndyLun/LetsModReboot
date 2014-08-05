@@ -1,6 +1,7 @@
 package com.andylun.letsmodreboot;
 
 import com.andylun.letsmodreboot.handler.ConfigurationHandler;
+import com.andylun.letsmodreboot.init.ModBlocks;
 import com.andylun.letsmodreboot.init.ModItems;
 import com.andylun.letsmodreboot.proxy.IProxy;
 import com.andylun.letsmodreboot.reference.Reference;
@@ -26,6 +27,7 @@ public class LetsModReboot {
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
 		ModItems.init();
+		ModBlocks.init();
 	}
 
 	@Mod.EventHandler
